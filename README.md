@@ -4,6 +4,10 @@
 ### Технологии
 Python 3.7
 Django 2.2.19
+HTML 5
+CSS
+bootstrap
+SQLite
 ### Запуск проекта в dev-режиме
 - Установите и активируйте виртуальное окружение
 - Установите зависимости из файла requirements.txt
@@ -14,5 +18,4 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
-### Авторы
-Алексей 
+
